@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://byrbce6pdhlkt"
+path="res://.godot/imported/ColdPresc B.wav-6a72b0ac6398dc109bc22f8b740dd62c.sample"
+
+[deps]
+
+source_file="res://audio/music/ColdPresc B.wav"
+dest_files=["res://.godot/imported/ColdPresc B.wav-6a72b0ac6398dc109bc22f8b740dd62c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
